@@ -1,23 +1,23 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/mhankbarbar/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/beni1910/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/beni1910"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/beni1910/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+<a href="https://github.com/beni1910/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/beni1910/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/beni1910/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/beni1910/whatsapp-bot
 ```
 
 ## Install the dependencies:
@@ -30,7 +30,7 @@ you've just cloned!!
 ```
 
 ### Usage
-Before running this script, first edit [this section](https://github.com/MhankBarBar/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
+Before running this script, first edit [this section](https://github.com/beni1910/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
 ```bash
 > npm start
 ```
@@ -103,10 +103,6 @@ Fix Stuck on linux, install google chrome stable:
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
-## Special Thanks to
-* [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
-* [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
-* [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+* [`paypal`](https://www.paypal.com/paypalme/BenniIsmael)
