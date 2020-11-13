@@ -5,13 +5,13 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/beni1910"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/beni1910"><img title="Author" src="https://img.shields.io/badge/Author-benniismael-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/beni1910/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/beni1910/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/beni1910/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/beni1910/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/beni1910/followers"><img title="Followers" src="https://img.shields.io/github/followers/beni1910?color=blue&style=flat-square"></a>
+<a href="https://github.com/beni1910/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/beni1910/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/beni1910/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/beni1910/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/beni1910/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/beni1910/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Clone this project
